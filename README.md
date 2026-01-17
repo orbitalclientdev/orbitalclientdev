@@ -42,7 +42,7 @@ I'm a dedicated **Minecraft Server Developer** with deep expertise in the **Spig
 
 | Plugin | Description | Stack |
 | :--- | :--- | :--- |
-| **Timebleed** | High-performance PracticePvP core with seamless knockback. | `Java` |
+| **TimeBleed** | *"Time is ticking. Survive, steal, or spend it all."* | Time = health & currency, combat siphoning, gambling, bounties, time shop | `Java` |
 
 ---
 
