@@ -15,34 +15,49 @@
     </a>
   </p>
 </div>
+
 ---
+
 ### ⚡ About Me
+
 I'm a dedicated **Minecraft Server Developer** with deep expertise in the **Spigot/Paper ecosystem**. I specialize in creating high-performance cores, complex Skript systems, and engaging gameplay loops.
+
 - 💎 I specialize in **Packet Manipulation, NMS, and Optimized Skripts**.
 - ⚡ Fun Fact: I write code that runs faster than flint and steel.
+
 ---
+
 ### 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,idea,vscode,git,github,mysql,linux" />
   <br/>
   <img src="https://img.shields.io/badge/Skript-Language-232323?style=flat&logo=codeigniter&logoColor=red" height="35" />
   <img src="https://img.shields.io/badge/PaperMC-API-blue?style=flat&logo=bookstack&logoColor=white" height="35" />
 </div>
+
 ---
+
 ### 📂 Featured Projects
+
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Orbital Core** | High-performance PracticePvP core with seamless knockback. | `Java` `NMS` `Mongo` |
 | **BoxPvP Engine** | Fully custom BoxPvP gamemode logic with dynamic mines. | `Skript` `SkBee` |
 | **Anti-Exploit** | Packet-level checks to prevent common movement hacks. | `Java` `PacketEvents` |
+
 ---
+
 ### 🧩 Skript Utilities
+
 | Script | Tagline | Features |
 | :--- | :--- | :--- |
 | **AFK System** | *"AFK made smarter."* | Toggle AFK with `/afk`, auto-unmark on move/chat, TAB plugin integration |
 | **Glow Command** | *"Stand out in style."* | 17 color options, admin-only, tab completions, TAB prefix sync |
 | **EnderChest** | *"Your Ender Chest, anywhere—and everyone else's too."* | Instant `/ec` access, view other players' chests with perms |
+
 ---
+
 <div align="center">
   <i>Let's build the next big network.</i>
 </div>
