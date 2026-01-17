@@ -17,7 +17,7 @@
     <a href="[https://www.spigotmc.org/](https://www.spigotmc.org/members/gatole.1878571/)">
       <img src="https://img.shields.io/badge/SpigotMC-Profile-F16624?style=for-the-badge&logo=spigotmc&logoColor=white" />
     </a>
-    <a href="https://discord.gg/YOUR_INVITE">
+    <a href="https://discord.gg/GwRc8EcDPR">
       <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </p>
