@@ -53,6 +53,7 @@ I'm a dedicated **Minecraft Server Developer** with deep expertise in the **Spig
 | **AFK System** | *"AFK made smarter."* | Toggle AFK with `/afk`, auto-unmark on move/chat, TAB plugin integration |
 | **Glow Command** | *"Stand out in style."* | 15 color options, admin-only, tab completions, TAB prefix sync |
 | **EnderChest** | *"Your Ender Chest, anywhere—and everyone else's too."* | Instant `/ec` access, view other players' chests with perms |
+| **Eqhas Utilities** | *Everything you need, in one place.* | Flight, Gamemode, Essentials, Vanish, Speed, Homes, TPA, Spawn, Back, InvSee |
 
 ---
 
