@@ -55,6 +55,7 @@ I'm a dedicated **Minecraft Server Developer** with deep expertise in the **Spig
 | **EnderChest** | *"Your Ender Chest, anywhere—and everyone else's too."* | Instant `/ec` access, view other players' chests with perms |
 | **Eqhas Utilities** | *Everything you need, in one place.* | Flight, Gamemode, Essentials, Vanish, Speed, Homes, TPA, Spawn, Back, InvSee |
 | **Eqhas Moderation** | *Justice, served with style.* | GUI Punishments, History Tracking, Staff Chat, Freeze, Chat Management |
+| **Skills Core** | *Level up your gameplay.* | RPG Skills (Mining, Farming, Combat), Custom XP, Perks, GUI Profile |
 
 ---
 
